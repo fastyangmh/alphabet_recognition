@@ -1,5 +1,5 @@
 #   alphabet_recognition
-[Google Colab] https://colab.research.google.com/drive/1AQAfZ466Rsrr_SPWd5YGNEVNa08fOxDM?authuser=1#scrollTo=EufszemgjjS-
+[Google Colab](https://colab.research.google.com/drive/1AQAfZ466Rsrr_SPWd5YGNEVNa08fOxDM?authuser=1#scrollTo=EufszemgjjS-)
 
 ##  Abstract
     專案使用的資料來源於Kaggle的A-Z Handwritten Alphabets in .csv format(https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format#A_Z%20Handwritten%20Data.csv)，此數據集約有260000筆訓練資料，110000筆測試資料，下為模型效能。
