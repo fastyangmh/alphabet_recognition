@@ -14,7 +14,6 @@ from sklearn.metrics import accuracy_score
 import requests
 
 #global parameters
-RANDOM_SEED = 1234
 USE_CUDA = torch.cuda.is_available()
 
 # def
@@ -60,8 +59,6 @@ if __name__ == "__main__":
     batch_size = 1000
     lr = 0.0001
     epochs = 20
-    # torch.manual_seed(RANDOM_SEED)
-    # np.random.seed(RANDOM_SEED)
     url = 'https://doc-14-80-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/q8k52e3qfie8lk20d225dogn90t2sdue/1580428800000/07963431181216383630/*/1AasIiFr9zAZr2_zGwONb5pQIMhWOoBSx?e=download'
     filename = 'A_Z_Handwritten_Data.csv'
 
